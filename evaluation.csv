@@ -1,0 +1,298 @@
+ID,Make,Year,Kilometer,Fuel Type,Transmission,Location,Color,Owner,Seller Type,Engine,Drivetrain,Length,Width,Height,Seating Capacity,Fuel Tank Capacity
+112,Hyundai,2015,59000,Diesel,Manual,Agra,Silver,First,Individual,1396 cc,FWD,3995,1760,1555,5,45
+1611,Audi,2017,45000,Diesel,Automatic,Mumbai,White,First,Individual,2967 cc,AWD,5052,1968,1740,7,75
+1275,Tata,2018,35000,Petrol,Automatic,Chennai,Orange,First,Individual,1198 cc,FWD,3994,1811,1607,5,44
+297,Hyundai,2014,47721,LPG,Manual,Patna,Red,First,Individual,1086 cc,FWD,3585,1595,1550,5,35
+1957,Maruti Suzuki,2011,90342,CNG,Manual,Ambala Cantt,White,Second,Individual,796 cc,FWD,3495,1475,1460,5,35
+528,Maruti Suzuki,2016,53807,Petrol,Manual,Gurgaon,White,First,Individual,1197 cc,FWD,3850,1695,1530,5,42
+1393,Mahindra,2017,69000,Diesel,Automatic,Delhi,Black,First,Individual,1493 cc,RWD,3995,1835,1839,7,60
+1657,Maruti Suzuki,2012,89445,Diesel,Manual,Hyderabad,Grey,First,Individual,1248 cc,,3715,1680,1620,5,43
+1018,Toyota,2013,95000,Diesel,Manual,Chennai,White,Second,Individual,2982 cc,AWD,4705,1840,1850,7,80
+932,Maruti Suzuki,2020,47000,Petrol,Manual,Hyderabad,White,First,Individual,998 cc,FWD,3695,1600,1560,5,35
+1792,Toyota,2021,11030,Petrol,Manual,Bangalore,Blue,First,Individual,1197 cc,FWD,3995,1745,1510,5,37
+1781,Tata,2021,9000,Petrol,Automatic,Pune,Brown,First,Individual,1199 cc,FWD,3993,1677,1532,5,35
+69,Toyota,2020,26000,Petrol,Manual,Delhi,Silver,First,Individual,2694 cc,RWD,4735,1830,1795,7,65
+864,Hyundai,2012,56000,Petrol,Manual,Meerut,Grey,First,Individual,814 cc,FWD,3495,1550,1500,5,32
+1761,Honda,2016,50000,Petrol,Manual,Kolkata,Red,First,Individual,1199 cc,FWD,3955,1694,1544,5,40
+1649,Hyundai,2014,40000,Petrol,Manual,Kolkata,Silver,First,Individual,1197 cc,FWD,3995,1710,1505,5,45
+917,BMW,2013,70000,Diesel,Automatic,Mumbai,Blue,Second,Individual,1995 cc,RWD,4624,2031,1429,5,60
+1920,Maruti Suzuki,2015,64000,Petrol,Manual,Mohali,Grey,First,Individual,998 cc,FWD,3545,1490,1475,5,35
+755,Renault,2016,26000,Petrol,Manual,Mumbai,Brown,First,Individual,999 cc,FWD,3679,1579,1478,5,28
+83,Renault,2019,32000,Petrol,Manual,Mysore,Grey,First,Individual,799 cc,FWD,3679,1579,1478,5,28
+1029,Mercedes-Benz,2022,500,Diesel,Automatic,Delhi,Grey,First,Individual,1950 cc,RWD,4686,1810,1442,5,66
+1950,Mercedes-Benz,2021,12400,Petrol,Automatic,Pune,Blue,First,Individual,1991 cc,RWD,4686,1810,1442,5,66
+506,Hyundai,2014,74000,Diesel,Manual,Mohali,Grey,First,Individual,1582 cc,FWD,4370,1700,1475,5,43
+907,Mahindra,2019,69000,Diesel,Manual,Lucknow,Black,First,Individual,2179 cc,AWD,4456,1820,1995,7,60
+1060,Maruti Suzuki,2018,43000,Petrol,Manual,Allahabad,White,First,Individual,998 cc,FWD,3636,1475,1670,5,35
+1080,Volkswagen,2013,78000,Diesel,Manual,Bangalore,White,Second,Individual,1199 cc,FWD,3970,1682,1453,5,45
+382,Maruti Suzuki,2015,45969,Petrol,Manual,Mumbai,Silver,First,Individual,1373 cc,FWD,4490,1730,1485,5,43
+1141,Tata,2021,15000,Diesel,Manual,Delhi,Black,First,Individual,1956 cc,FWD,4598,1894,1706,5,50
+560,Hyundai,2015,49123,Petrol,Manual,Patna,White,First,Individual,1197 cc,FWD,3585,1595,1550,5,35
+1428,Maruti Suzuki,2019,34000,Petrol,Manual,Chennai,White,First,Individual,998 cc,FWD,3695,1600,1560,5,35
+3,BMW,2015,87000,Diesel,Automatic,Mohali,Blue,First,Individual,2993 cc,AWD,4886,1938,1762,7,
+269,Mahindra,2018,50000,Diesel,Manual,Zirakpur,Maroon,First,Individual,2179 cc,FWD,4585,1890,1785,7,70
+1338,Maruti Suzuki,2019,50000,CNG,Manual,Delhi,Grey,First,Individual,998 cc,FWD,3655,1620,1675,5,60
+1932,Hyundai,2015,47752,Petrol,Manual,Mumbai,White,First,Individual,1197 cc,FWD,3985,1734,1505,5,45
+1473,Toyota,2018,37000,Diesel,Automatic,Delhi,White,First,Individual,2755 cc,RWD,4795,1855,1835,7,80
+154,Hyundai,2020,24013,Petrol,Manual,Mumbai,Blue,First,Individual,998 cc,FWD,3995,1770,1605,5,45
+1273,Land Rover,2019,50000,Diesel,Automatic,Karnal,Blue,First,Individual,2179 cc,AWD,4600,2069,1724,7,65
+460,BMW,2015,59000,Diesel,Automatic,Chandigarh,Bronze,First,Individual,2993 cc,AWD,4886,1938,1762,7,
+493,Ford,2021,41086,Diesel,Automatic,Pune,White,Second,Individual,1996 cc,AWD,4903,1869,1837,7,80
+1502,Toyota,2019,42794,Diesel,Automatic,Bangalore,White,First,Individual,2755 cc,RWD,4735,1830,1795,8,55
+194,Honda,2016,68500,Petrol,Manual,Ahmedabad,Bronze,First,Individual,1497 cc,FWD,4440,1695,1495,5,40
+85,Maruti Suzuki,2016,74000,Petrol,Manual,Ranchi,White,First,Individual,1197 cc,FWD,3995,1695,1555,5,42
+1535,Ford,2010,72000,Diesel,Manual,Hyderabad,White,First,Individual,1399 cc,FWD,3795,1680,1427,5,45
+1049,Hyundai,2013,107000,Diesel,Manual,Chandigarh,White,First,Individual,1582 cc,FWD,4370,1700,1475,5,43
+1095,Toyota,2017,75000,Diesel,Manual,Varanasi,White,Second,Individual,2393 cc,RWD,4735,1830,1795,7,55
+1017,Honda,2019,56881,Petrol,Manual,Lucknow,Silver,First,Individual,1497 cc,FWD,4440,1695,1495,5,40
+604,Land Rover,2021,35000,Diesel,Automatic,Delhi,Beige,First,Individual,1999 cc,AWD,4371,1996,1649,5,66.5
+31,Isuzu,2017,96095,Diesel,Automatic,Thane,Silver,First,Individual,2999 cc,RWD,4825,1860,1840,7,65
+1186,Mahindra,2020,35000,Diesel,Manual,Patna,White,First,Individual,2179 cc,RWD,4456,1820,1995,7,60
+942,Tata,2018,20000,Petrol,Automatic,Mumbai,Red,First,Individual,1199 cc,FWD,3746,1647,1535,5,35
+1328,Maruti Suzuki,2017,61000,Diesel,Manual,Surat,Orange,First,Individual,1248 cc,FWD,3995,1745,1500,5,37
+1508,BMW,2017,75000,Diesel,Automatic,Coimbatore,White,Second,Individual,1995 cc,AWD,4439,1821,1612,5,51
+323,Honda,2016,50374,Petrol,Manual,Vadodara,White,First,Individual,1198 cc,FWD,3610,1680,1500,5,35
+1403,Mahindra,2018,68000,Diesel,Manual,Ludhiana,White,Second,Individual,2179 cc,AWD,4456,1820,1995,7,60
+168,Mahindra,2013,170000,Diesel,Manual,Salem,White,Third,Individual,2179 cc,RWD,4430,1817,1975,8,60
+140,Maruti Suzuki,2017,9000,Petrol,Manual,Delhi,Grey,First,Individual,1373 cc,FWD,4296,1695,1685,7,45
+1225,Audi,2012,240000,Diesel,Automatic,Lucknow,White,First,Individual,2967 cc,AWD,4915,1874,1455,5,75
+872,Maruti Suzuki,2017,45000,CNG,Manual,Pune,Silver,First,Individual,796 cc,FWD,3395,1490,1475,5,35
+504,Land Rover,2021,14500,Petrol,Automatic,Delhi,White,First,Individual,1997 cc,AWD,4600,2069,1724,7,70
+313,Hyundai,2016,47000,Petrol,Manual,Delhi,White,First,Individual,1591 cc,FWD,4270,1780,1630,5,60
+1523,Mercedes-Benz,2017,11850,Diesel,Automatic,Vadodara,White,First,Individual,2925 cc,RWD,5246,1899,1494,5,70
+1269,Hyundai,2018,64300,Petrol,Manual,Pune,Brown,First,Individual,1197 cc,FWD,3995,1760,1555,5,40
+622,Maruti Suzuki,2019,40000,Petrol,Manual,Thane,Silver,First,Individual,1196 cc,RWD,3675,1475,1800,7,40
+1637,Hyundai,2018,78900,Diesel,Manual,Vadodara,Silver,First,Individual,1120 cc,FWD,3995,1660,1520,5,43
+1500,Maruti Suzuki,2012,30000,Petrol,Manual,Patna,Blue,First,Individual,1197 cc,FWD,3850,1695,1530,5,42
+1023,BMW,2015,84700,Diesel,Automatic,Pune,Black,Second,Individual,2993 cc,AWD,4886,1938,1762,5,
+1840,Mercedes-Benz,2019,10000,Diesel,Automatic,Chennai,White,First,Individual,1950 cc,RWD,5063,1860,1494,5,80
+726,Porsche,2016,55700,Diesel,Automatic,Navi Mumbai,Silver,First,Corporate,2967 cc,AWD,4855,1939,1705,5,85
+499,BMW,2019,15500,Diesel,Automatic,Delhi,Blue,First,Individual,1995 cc,RWD,4633,1811,1429,5,57
+1150,Hyundai,2013,34000,Petrol,Automatic,Mumbai,Red,First,Individual,1197 cc,FWD,3585,1595,1550,5,35
+678,BMW,2022,6000,Diesel,Automatic,Mumbai,Grey,First,Individual,1995 cc,RWD,4936,1868,1479,5,65
+81,Mercedes-Benz,2015,48000,Diesel,Automatic,Mumbai,White,First,Individual,2143 cc,RWD,4879,1854,1474,5,80
+1211,Maruti Suzuki,2019,34000,Petrol,Manual,Delhi,Blue,First,Individual,1462 cc,FWD,4490,1730,1485,5,43
+1231,Jaguar,2017,29999,Diesel,Automatic,Bangalore,Blue,First,Individual,1999 cc,RWD,4795,1967,1416,5,56
+446,Honda,2015,49000,Petrol,Manual,Kolkata,Grey,First,Individual,1497 cc,FWD,4440,1695,1495,5,40
+335,Tata,2018,38000,Diesel,Manual,Mumbai,White,First,Individual,2179 cc,RWD,4788,1903,1791,7,60
+723,Kia,2020,42000,Petrol,Manual,Ahmedabad,Black,First,Individual,1497 cc,FWD,4315,1800,1645,5,50
+1386,Honda,2012,111000,Petrol,Manual,Ernakulam,Red,First,Individual,1497 cc,FWD,4440,1695,1485,5,42
+585,Honda,2014,58600,Petrol,Manual,Pune,Red,First,Individual,1198 cc,FWD,3990,1680,1505,5,35
+1165,Volkswagen,2017,69508,Diesel,Manual,Ranga Reddy,White,Second,Individual,1498 cc,FWD,3995,1682,1483,5,45
+58,Audi,2016,57057,Diesel,Automatic,Ludhiana,White,First,Individual,1968 cc,FWD,4701,1826,1427,5,63
+1767,BMW,2018,38000,Diesel,Automatic,Ahmedabad,Blue,First,Individual,2993 cc,RWD,4899,2094,1464,5,65
+586,BMW,2017,22120,Diesel,Automatic,Delhi,White,First,Individual,1995 cc,FWD,4439,1821,1612,5,51
+1982,Mahindra,2015,87000,Diesel,Manual,Varanasi,White,First,Individual,2179 cc,RWD,4456,1820,1995,8,60
+358,Maruti Suzuki,2014,75000,Diesel,Manual,Ludhiana,White,Second,Individual,1248 cc,FWD,3995,1695,1555,5,42
+222,Honda,2017,99000,Petrol,Automatic,Noida,Brown,First,Individual,1199 cc,FWD,3955,1694,1544,5,40
+1876,BMW,2018,68189,Diesel,Automatic,Jaipur,Brown,First,Individual,1995 cc,RWD,4633,1811,1429,5,57
+484,Datsun,2017,42000,Petrol,Manual,Lucknow,White,First,Individual,1198 cc,FWD,3785,1635,1485,5,35
+906,Maruti Suzuki,2019,6200,Petrol,Manual,Mumbai,Blue,First,Individual,1462 cc,FWD,4490,1730,1485,5,43
+664,Mercedes-Benz,2021,19000,Diesel,Automatic,Mumbai,Black,First,Individual,1950 cc,AWD,4658,1890,1644,5,66
+1479,Honda,2019,36000,Petrol,Manual,Pune,Bronze,First,Individual,1497 cc,FWD,4440,1695,1495,5,40
+210,Honda,2014,62500,Diesel,Manual,Varanasi,Bronze,First,Individual,1498 cc,FWD,3990,1680,1505,5,35
+1949,Maruti Suzuki,2019,11874,Petrol,Automatic,Pune,White,First,Individual,1197 cc,FWD,3840,1735,1530,5,37
+1945,Toyota,2017,120000,Diesel,Automatic,Faridabad,White,First,Individual,2755 cc,AWD,4795,1855,1835,7,80
+999,Toyota,2021,34228,Diesel,Manual,Udupi,White,First,Individual,2393 cc,RWD,4735,1830,1795,8,55
+572,Maruti Suzuki,2015,36528,Diesel,Manual,Varanasi,Blue,Third,Individual,1248 cc,FWD,3850,1695,1530,5,42
+170,Ford,2014,50000,Petrol,Manual,Delhi,White,Second,Individual,1499 cc,FWD,3999,1765,1708,5,52
+752,Maruti Suzuki,2019,20734,Petrol,Automatic,Udupi,Silver,First,Individual,998 cc,FWD,3695,1600,1560,5,35
+1337,Volvo,2019,3500,Diesel,Automatic,Ludhiana,White,First,Individual,1969 cc,AWD,4688,1902,1658,5,71
+760,Maruti Suzuki,2018,66000,Diesel,Automatic,Warangal,Red,First,Individual,1248 cc,FWD,3995,1735,1515,5,37
+679,Mahindra,2013,135000,Diesel,Manual,Varanasi,Black,First,Individual,2179 cc,FWD,4585,1890,1785,7,70
+603,Kia,2019,17000,Petrol,Manual,Bangalore,White,First,Individual,1353 cc,FWD,4315,1800,1645,5,50
+505,Maruti Suzuki,2016,62000,Diesel,Manual,Ludhiana,Blue,First,Individual,1248 cc,FWD,3995,1745,1500,5,37
+103,Skoda,2018,55000,Petrol,Automatic,Pune,Grey,Second,Individual,1598 cc,FWD,4413,1699,1466,5,55
+1487,Maruti Suzuki,2019,40310,Petrol,Manual,Pune,Grey,Second,Individual,1196 cc,RWD,3675,1475,1800,7,40
+1251,Honda,2015,42000,Petrol,Automatic,Delhi,White,First,Individual,1199 cc,FWD,3955,1694,1544,5,40
+1486,Maruti Suzuki,2015,67580,CNG,Manual,Pune,White,First,Individual,998 cc,FWD,3599,1495,1700,5,35
+727,Honda,2020,39000,Diesel,Automatic,Ludhiana,White,First,Individual,1498 cc,FWD,3995,1695,1501,5,35
+284,Hyundai,2009,23000,Petrol,Manual,Mumbai,Red,First,Individual,1086 cc,FWD,3565,1595,1550,5,35
+768,Hyundai,2018,55221,Petrol,Manual,Mumbai,White,First,Individual,1197 cc,FWD,3765,1660,1520,5,43
+198,Porsche,2019,27000,Petrol,Automatic,Hyderabad,Red,First,Corporate,1984 cc,AWD,4696,1923,1624,5,65
+810,Hyundai,2018,440000,Diesel,Automatic,Delhi,Grey,First,Individual,1582 cc,FWD,4270,1780,1665,5,55
+1547,Mercedes-Benz,2015,31000,Petrol,Automatic,Mumbai,Blue,First,Individual,1991 cc,RWD,4686,1810,1442,5,66
+994,Mercedes-Benz,2020,28079,Diesel,Automatic,Mumbai,Blue,First,Individual,1950 cc,RWD,4686,1810,1442,5,66
+905,Hyundai,2018,30000,Petrol,Automatic,Delhi,Black,First,Individual,1591 cc,FWD,4270,1780,1665,5,55
+27,Toyota,2018,75000,Diesel,Automatic,Ahmedabad,Grey,First,Individual,2755 cc,RWD,4735,1830,1795,7,55
+1872,Maruti Suzuki,2010,82202,Diesel,Manual,Jalandhar,White,Second,Individual,1248 cc,FWD,4160,1690,1530,5,43
+574,Maruti Suzuki,2019,26000,Petrol,Manual,Lucknow,Blue,First,Individual,1197 cc,FWD,3850,1695,1530,5,42
+1541,Audi,2015,71700,Diesel,Automatic,Navi Mumbai,White,Second,Individual,1968 cc,AWD,4385,1831,1608,5,64
+908,Mahindra,2018,120000,Diesel,Manual,Ranchi,Black,Second,Individual,2179 cc,RWD,4456,1820,1995,7,60
+70,Toyota,2015,39780,Petrol,Automatic,Mumbai,White,First,Individual,1798 cc,FWD,4620,1775,1475,5,55
+1716,Renault,2019,32000,Petrol,Manual,Mumbai,Brown,First,Individual,999 cc,FWD,3679,1579,1478,5,28
+1131,Renault,2016,35000,Diesel,Automatic,Delhi,Grey,Second,Individual,1461 cc,FWD,4315,1822,1695,5,50
+930,Maruti Suzuki,2011,72000,Petrol,Manual,Kanpur,Silver,First,Individual,998 cc,FWD,3545,1490,1475,5,35
+800,Mercedes-Benz,2021,16785,Petrol,Automatic,Bangalore,White,First,Individual,1991 cc,RWD,4658,1890,1644,5,66
+166,Toyota,2018,173000,Diesel,Manual,Bangalore,White,First,Individual,2755 cc,RWD,4795,1855,1835,7,80
+61,Honda,2014,50000,Petrol,Automatic,Mumbai,White,First,Individual,1199 cc,FWD,3990,1680,1505,5,35
+1399,Hyundai,2013,57000,Petrol,Automatic,Kanpur,White,First,Individual,1197 cc,FWD,3585,1595,1550,5,35
+943,Hyundai,2018,33500,Petrol,Automatic,Mumbai,White,First,Individual,1591 cc,FWD,4270,1780,1630,5,60
+847,Audi,2016,95401,Diesel,Automatic,Bangalore,Black,First,Individual,1968 cc,AWD,4385,1831,1608,5,64
+883,Hyundai,2017,66602,Diesel,Automatic,Mumbai,Grey,First,Individual,1582 cc,FWD,4270,1780,1630,5,60
+1572,Mercedes-Benz,2018,28000,Diesel,Automatic,Delhi,White,First,Individual,2987 cc,AWD,4819,2141,1796,5,93
+65,Hyundai,2018,70000,Petrol,Manual,Kheda,White,First,Individual,814 cc,FWD,3495,1550,1500,5,32
+748,Maruti Suzuki,2018,50000,Petrol,Manual,Meerut,White,First,Individual,1197 cc,FWD,3850,1695,1530,5,42
+1647,Hyundai,2020,23000,Petrol,Manual,Haldwani,Brown,First,Individual,998 cc,FWD,3995,1770,1605,5,45
+1470,Lexus,2020,27000,Hybrid,Automatic,Mumbai,Blue,First,Individual,2487 cc,FWD,4975,1865,1445,5,50
+1133,Mercedes-Benz,2017,70000,Diesel,Automatic,Pune,Brown,Second,Individual,2143 cc,RWD,4686,1810,1442,5,66
+717,Maruti Suzuki,2009,39586,Petrol,Manual,Ranchi,Red,First,Individual,1061 cc,FWD,3520,1475,1690,5,35
+1253,Hyundai,2017,80000,Diesel,Automatic,Bangalore,Silver,First,Individual,1582 cc,FWD,4440,1729,1475,5,45
+1527,Hyundai,2016,37079,Petrol,Automatic,Thane,Red,First,Individual,1591 cc,FWD,4270,1780,1630,5,60
+642,Hyundai,2022,5800,Diesel,Automatic,Surat,White,First,Individual,1493 cc,FWD,4300,1790,1635,5,50
+1167,Toyota,2018,35123,Diesel,Manual,Patna,White,First,Individual,2393 cc,RWD,4735,1830,1795,8,55
+1661,Audi,2017,36000,Diesel,Automatic,Delhi,Blue,First,Individual,1968 cc,AWD,4385,1831,1608,5,64
+1234,BMW,2017,41296,Diesel,Automatic,Mumbai,Blue,First,Individual,1995 cc,RWD,4899,2094,1464,5,65
+1813,Audi,2016,84700,Diesel,Automatic,Karnal,White,First,Individual,1968 cc,AWD,4385,1831,1608,5,64
+600,Renault,2022,4000,Petrol,Automatic,Hyderabad,White,Second,Individual,999 cc,FWD,3991,1750,1605,5,40
+920,Maruti Suzuki,2008,72542,Petrol,Manual,Mirzapur,Pink,First,Individual,1061 cc,,3495,1495,1595,5,35
+621,Mercedes-Benz,2020,19000,Petrol,Automatic,Chennai,White,First,Individual,2996 cc,AWD,4693,1810,1402,4,66
+1504,Audi,2011,75000,Diesel,Automatic,Lucknow,Silver,First,Individual,1968 cc,FWD,4701,1826,1427,5,63
+1190,BMW,2018,60474,Diesel,Automatic,Coimbatore,White,First,Individual,1995 cc,RWD,4936,1868,1479,5,65
+229,Mercedes-Benz,2016,61109,Diesel,Automatic,Bangalore,Brown,Second,Individual,2143 cc,FWD,4424,1804,1494,5,50
+204,Nissan,2013,35000,Diesel,Manual,Kanpur,Grey,First,Individual,1461 cc,FWD,4425,1695,1505,5,41
+1983,Audi,2018,36000,Diesel,Automatic,Pune,White,First,Individual,1968 cc,FWD,4933,1874,1455,5,75
+640,Volkswagen,2017,55000,Petrol,Manual,Pune,Bronze,First,Individual,1198 cc,FWD,3995,1682,1483,5,45
+239,Renault,2016,64000,Petrol,Manual,Mohali,Silver,First,Individual,799 cc,FWD,3679,1579,1478,5,28
+1636,Mercedes-Benz,2022,3826,Diesel,Automatic,Ahmedabad,White,UnRegistered Car,Individual,1950 cc,FWD,4549,1796,1446,5,43
+146,Maruti Suzuki,2017,140000,Diesel,Manual,Warangal,Grey,First,Individual,1248 cc,FWD,3850,1695,1530,5,42
+16,Maruti Suzuki,2019,29000,Petrol,Manual,Kolkata,Grey,First,Individual,1197 cc,FWD,3850,1695,1530,5,42
+890,Honda,2019,54000,Petrol,Automatic,Varanasi,White,Second,Individual,1199 cc,FWD,3995,1695,1501,5,35
+462,Maruti Suzuki,2021,22000,Petrol,Manual,Raipur,Blue,First,Individual,1197 cc,FWD,3995,1745,1500,5,37
+1449,Hyundai,2022,8000,Diesel,Automatic,Hyderabad,White,First,Individual,1493 cc,FWD,4500,1790,1675,7,50
+1733,Hyundai,2009,115000,Petrol,Manual,Coimbatore,Blue,Third,Individual,1197 cc,,3940,1710,1505,5,45
+870,Porsche,2020,38000,Petrol,Automatic,Ahmedabad,Blue,First,Individual,2995 cc,AWD,4696,1923,1624,5,65
+1598,Hyundai,2015,65000,Diesel,Manual,Ludhiana,White,Second,Individual,1396 cc,FWD,3985,1734,1505,5,45
+59,Hyundai,2016,61181,Diesel,Manual,Jaipur,White,First,Individual,1396 cc,FWD,3985,1734,1505,5,45
+1471,Hyundai,2018,73000,Diesel,Manual,Pune,Red,First,Individual,1582 cc,FWD,4440,1729,1475,5,45
+900,Audi,2009,63300,Diesel,Automatic,Delhi,White,First,Individual,2967 cc,,4628,1879,1651,5,75
+305,BMW,2016,39000,Diesel,Automatic,Mumbai,White,First,Individual,2993 cc,AWD,4886,1938,1762,7,
+1803,Hyundai,2015,41273,Petrol,Manual,Mumbai,White,First,Individual,1495 cc,FWD,4250,1670,1370,5,45
+1140,Maruti Suzuki,2017,34908,Petrol,Manual,Mumbai,Grey,First,Corporate,1197 cc,FWD,3995,1745,1500,5,37
+398,Maruti Suzuki,2018,8000,Petrol,Automatic,Mumbai,Blue,First,Individual,1197 cc,FWD,3840,1735,1530,5,37
+693,Ford,2017,81323,Diesel,Manual,Hyderabad,Silver,First,Individual,1498 cc,FWD,3998,1765,1647,5,52
+1584,Ford,2016,62591,Diesel,Manual,Mumbai,Silver,First,Individual,1498 cc,FWD,3998,1765,1647,5,52
+1954,Hyundai,2014,61866,Petrol,Automatic,Thane,White,First,Individual,1197 cc,FWD,3765,1660,1520,5,43
+627,Maruti Suzuki,2018,42000,Petrol,Automatic,Mumbai,Blue,First,Individual,1197 cc,FWD,3995,1735,1515,5,37
+1780,Maruti Suzuki,2013,23086,Petrol,Manual,Mumbai,Grey,First,Individual,1197 cc,FWD,3775,1680,1620,5,43
+288,Hyundai,2020,30000,Diesel,Manual,Ahmedabad,White,First,Individual,1396 cc,FWD,3985,1734,1505,5,45
+1374,Hyundai,2017,50050,Petrol,Automatic,Delhi,White,First,Individual,1591 cc,FWD,4270,1780,1630,5,60
+1219,Maruti Suzuki,2018,30000,Diesel,Manual,Patna,Silver,First,Individual,1248 cc,FWD,3995,1790,1640,5,48
+860,Maruti Suzuki,2012,54000,Petrol,Manual,Bangalore,Bronze,First,Individual,998 cc,FWD,3620,1475,1460,5,35
+700,Kia,2020,63000,Diesel,Automatic,Ahmedabad,White,First,Individual,1493 cc,FWD,4315,1800,1645,5,50
+426,BMW,2011,61000,Diesel,Automatic,Mohali,Silver,Third,Individual,1995 cc,RWD,4899,2094,1464,5,
+1565,Honda,2014,65000,Petrol,Manual,Coimbatore,Silver,Second,Individual,1198 cc,FWD,3990,1680,1505,5,35
+1312,Maruti Suzuki,2018,12768,Petrol,Manual,Ahmedabad,White,First,Individual,1196 cc,RWD,3675,1475,1800,5,40
+809,Maruti Suzuki,2014,52000,Petrol,Manual,Delhi,Silver,First,Individual,1197 cc,FWD,3995,1695,1555,5,42
+1081,Hyundai,2019,28000,Petrol,Automatic,Chennai,Blue,First,Individual,998 cc,FWD,3995,1770,1605,5,45
+862,Mahindra,2016,92000,Diesel,Manual,Kanpur,White,Second,Individual,1493 cc,RWD,3995,1835,1839,7,60
+710,Hyundai,2015,82000,Diesel,Manual,Raipur,Red,Second,Individual,1582 cc,FWD,4270,1780,1630,5,60
+25,Hyundai,2008,61000,Petrol,Automatic,Pune,Black,Third,Individual,1197 cc,FWD,3565,1595,1550,5,35
+1513,Hyundai,2017,31000,Diesel,Manual,Kolkata,White,First,Individual,1582 cc,FWD,4440,1729,1475,5,45
+1043,Maruti Suzuki,2019,48000,CNG,Manual,Mumbai,Silver,First,Individual,998 cc,FWD,3655,1620,1675,5,60
+639,Mercedes-Benz,2018,20000,Diesel,Automatic,Mumbai,Red,First,Individual,2143 cc,FWD,4630,1777,1432,5,56
+888,Skoda,2014,24000,Petrol,Automatic,Mumbai,Beige,Second,Individual,1598 cc,FWD,4386,1699,1466,5,55
+263,Audi,2014,15000,Diesel,Automatic,Delhi,Red,First,Individual,1968 cc,FWD,4701,1826,1427,5,63
+753,Maruti Suzuki,2019,80849,Diesel,Manual,Hyderabad,White,First,Individual,1248 cc,FWD,3840,1735,1530,5,37
+1652,Toyota,2015,145000,Diesel,Automatic,Mohali,Gold,Second,Individual,2982 cc,RWD,4705,1840,1850,7,80
+936,Toyota,2017,30000,Diesel,Manual,Chennai,Maroon,First,Individual,2393 cc,RWD,4735,1830,1795,7,55
+265,Maruti Suzuki,2014,82000,CNG,Manual,Lucknow,White,First,Individual,998 cc,FWD,3599,1495,1700,5,35
+1908,Land Rover,2017,25500,Diesel,Automatic,Pune,White,Second,Individual,1999 cc,AWD,4360,2120,1635,5,57
+4,Mercedes-Benz,2019,53000,Diesel,Automatic,Dehradun,White,First,Individual,2987 cc,AWD,5130,1934,1850,7,100
+1886,Maruti Suzuki,2017,114000,Diesel,Manual,Faridabad,Grey,First,Individual,1598 cc,FWD,4300,1765,1590,5,48
+1814,Maruti Suzuki,2015,92000,CNG,Manual,Mumbai,Brown,Second,Individual,998 cc,FWD,3599,1495,1700,5,35
+694,Mitsubishi,2011,40000,Diesel,Manual,Mirzapur,White,Second,Individual,2835 cc,AWD,4755,1775,1900,5,92
+1249,Tata,2021,32000,Diesel,Manual,Patna,Green,First,Individual,2179 cc,RWD,4655,1965,1922,7,63
+1178,Honda,2019,56000,Diesel,Manual,Hyderabad,White,First,Individual,1498 cc,FWD,3990,1680,1505,5,35
+101,Maruti Suzuki,2019,44710,Petrol,Manual,Pune,White,First,Individual,1197 cc,FWD,3850,1695,1530,5,42
+180,Volkswagen,2021,24000,Petrol,Manual,Mangalore,White,First,Individual,999 cc,FWD,3971,1682,1469,5,45
+1429,Hyundai,2015,58200,Petrol,Automatic,Navi Mumbai,Silver,First,Individual,1591 cc,FWD,4370,1700,1475,5,43
+498,Maruti Suzuki,2014,60116,Petrol,Automatic,Bangalore,Grey,First,Individual,998 cc,FWD,3600,1600,1560,5,35
+1613,Mahindra,2016,42000,Diesel,Manual,Patna,White,First,Individual,2523 cc,RWD,4456,1820,1930,8,60
+1282,Maruti Suzuki,2013,85785,Diesel,Manual,Ambala Cantt,Silver,Second,Individual,1248 cc,FWD,3775,1680,1620,5,43
+1775,BMW,2020,29000,Diesel,Automatic,Delhi,Blue,First,Individual,2993 cc,AWD,4922,2004,1745,5,80
+1268,Hyundai,2019,37000,Diesel,Manual,Hyderabad,Blue,First,Individual,1396 cc,FWD,4270,1780,1665,5,55
+624,Honda,2017,49013,Petrol,Automatic,Mumbai,Grey,First,Individual,1497 cc,FWD,4440,1695,1495,5,40
+378,Mercedes-Benz,2018,50000,Diesel,Automatic,Delhi,Blue,First,Individual,2143 cc,AWD,4656,1890,1639,5,66
+832,Hyundai,2013,83466,Diesel,Automatic,Jaipur,White,First,Individual,2199 cc,AWD,4660,1890,1760,7,70
+1064,Hyundai,2018,60000,Diesel,Manual,Patna,White,First,Individual,1582 cc,FWD,4270,1780,1665,5,55
+481,Hyundai,2020,19700,Diesel,Manual,Mumbai,Maroon,First,Individual,1493 cc,FWD,4300,1790,1635,5,50
+147,Hyundai,2015,61900,Petrol,Manual,Gurgaon,Silver,First,Individual,1197 cc,FWD,3985,1734,1505,5,45
+1339,Maruti Suzuki,2017,50000,Petrol,Automatic,Dehradun,White,First,Individual,998 cc,FWD,3715,1635,1565,5,35
+1635,Mercedes-Benz,2017,56000,Petrol,Automatic,Ghaziabad,White,Second,Individual,1991 cc,RWD,4686,1810,1409,4,59
+365,Ford,2019,34000,Diesel,Automatic,Delhi,Black,First,Individual,3198 cc,AWD,4892,1860,1837,7,80
+1104,Honda,2008,70000,Petrol,Automatic,Lucknow,White,Second,Individual,1497 cc,,4390,1690,1495,5,42
+144,Mercedes-Benz,2013,58000,Diesel,Automatic,Bangalore,Silver,First,Individual,2143 cc,RWD,4596,1770,1447,5,66
+86,Toyota,2018,51000,Diesel,Automatic,Mumbai,White,First,Individual,2755 cc,RWD,4795,1855,1835,7,80
+571,BMW,2017,65341,Diesel,Automatic,Pune,White,Second,Individual,2993 cc,AWD,4886,1938,1762,5,
+73,Maruti Suzuki,2014,68005,Petrol,Manual,Ranchi,White,First,Individual,1197 cc,FWD,3850,1695,1530,5,42
+985,Skoda,2019,32809,Diesel,Manual,Coimbatore,Silver,First,Individual,1598 cc,FWD,4386,1699,1466,5,55
+878,Maruti Suzuki,2016,67850,CNG,Manual,Mumbai,Red,First,Individual,998 cc,FWD,3599,1495,1700,5,35
+1334,Honda,2013,76000,Petrol,Manual,Delhi,White,First,Individual,1497 cc,FWD,4440,1695,1485,5,42
+1799,Maruti Suzuki,2016,68921,Diesel,Manual,Hyderabad,Red,First,Individual,1248 cc,FWD,3995,1745,1500,5,37
+1763,Mahindra,2018,41000,Diesel,Manual,Patna,Blue,First,Individual,2523 cc,RWD,4456,1820,1930,8,60
+1398,Maruti Suzuki,2014,141334,Diesel,Manual,Pune,White,Second,Individual,1248 cc,FWD,3850,1695,1530,5,42
+630,Maruti Suzuki,2017,75000,Diesel,Manual,Ambala Cantt,White,First,Individual,1248 cc,FWD,3995,1790,1640,5,48
+1402,Mercedes-Benz,2019,42079,Diesel,Automatic,Pune,Silver,First,Individual,2987 cc,RWD,5063,1860,1494,5,80
+1948,Maruti Suzuki,2014,75000,Petrol,Manual,Mohali,White,First,Individual,1197 cc,FWD,3850,1695,1530,5,42
+211,BMW,2015,70000,Diesel,Automatic,Coimbatore,Blue,Second,Individual,1995 cc,RWD,4899,2094,1464,5,65
+1742,Maruti Suzuki,2019,76000,CNG,Manual,Kanpur,White,First,Individual,998 cc,FWD,3655,1620,1675,5,60
+568,Hyundai,2018,13772,Petrol,Automatic,Bangalore,White,First,Individual,1086 cc,FWD,3610,1645,1560,5,35
+28,Hyundai,2016,128000,Diesel,Automatic,Pune,White,Second,Corporate,1995 cc,FWD,4475,1850,1660,5,62
+264,Maruti Suzuki,2011,65000,Petrol,Manual,Lucknow,White,First,Individual,796 cc,,3495,1475,1460,5,35
+320,Maruti Suzuki,2017,52245,Diesel,Manual,Pune,Brown,First,Individual,1248 cc,FWD,4300,1785,1595,5,48
+1824,Maruti Suzuki,2015,70000,Petrol,Automatic,Ahmedabad,White,First,Individual,998 cc,FWD,3600,1600,1560,5,35
+655,Maruti Suzuki,2012,118000,Petrol,Manual,Pune,White,First,Individual,1586 cc,,4490,1735,1560,5,50
+539,Ford,2017,25000,Petrol,Automatic,Chennai,Black,Third,Individual,4951 cc,RWD,4784,2080,1391,4,60.9
+342,Maruti Suzuki,2017,58146,Petrol,Manual,Bangalore,Red,First,Individual,1197 cc,FWD,3995,1745,1500,5,37
+1143,Toyota,2020,55000,Diesel,Automatic,Delhi,Black,First,Corporate,2755 cc,RWD,4795,1855,1835,7,80
+1576,Audi,2016,40500,Diesel,Automatic,Mumbai,White,First,Individual,1968 cc,FWD,4456,1796,1416,5,50
+677,Hyundai,2018,53000,Petrol,Automatic,Hyderabad,White,Second,Individual,1197 cc,FWD,3765,1660,1520,5,43
+765,Audi,2012,42000,Diesel,Automatic,Lucknow,White,First,Individual,2967 cc,AWD,4969,2139,1420,5,65
+1447,Toyota,2014,82000,Diesel,Manual,Ludhiana,Silver,First,Individual,1364 cc,FWD,4265,1695,1510,5,45
+193,Skoda,2021,6900,Petrol,Automatic,Kolkata,Brown,First,Individual,1798 cc,FWD,4861,1864,1483,5,66
+924,Mercedes-Benz,2019,10000,Diesel,Automatic,Delhi,Blue,First,Individual,1950 cc,AWD,4658,1890,1644,5,66
+711,BMW,2022,18223,Petrol,Automatic,Ahmedabad,Blue,First,Individual,1998 cc,AWD,4708,1891,1676,5,60
+1040,Renault,2019,11183,Petrol,Automatic,Mumbai,Silver,First,Individual,999 cc,FWD,3679,1579,1478,5,28
+1782,Hyundai,2012,70000,Diesel,Manual,Jalandhar,White,Second,Individual,1582 cc,FWD,4370,1700,1475,5,43
+1593,Volkswagen,2020,17904,Diesel,Automatic,Mumbai,White,First,Individual,1968 cc,AWD,4486,1839,1672,5,71
+1610,Honda,2018,42855,Petrol,Manual,Pune,Brown,First,Individual,1497 cc,FWD,4440,1695,1495,5,40
+825,Ford,2019,14095,Petrol,Manual,Delhi,White,First,Individual,1499 cc,FWD,3999,1765,1708,5,52
+1561,Tata,2017,95785,Diesel,Automatic,Hyderabad,Blue,First,Individual,2179 cc,RWD,4788,1903,1791,7,60
+221,BMW,2018,70000,Diesel,Automatic,Mumbai,White,First,Individual,1995 cc,AWD,4657,1881,1678,5,67
+293,Skoda,2020,46807,Petrol,Automatic,Bangalore,Red,First,Individual,999 cc,FWD,4413,1699,1466,5,55
+199,Hyundai,2013,34000,Petrol,Manual,Pune,Blue,First,Individual,814 cc,FWD,3495,1550,1500,5,32
+1372,Hyundai,2015,61000,Diesel,Manual,Ahmedabad,Silver,First,Individual,1396 cc,FWD,3985,1734,1505,5,45
+868,Volkswagen,2013,110000,Diesel,Manual,Bangalore,Silver,First,Individual,1598 cc,FWD,4384,1699,1466,5,55
+1027,Maruti Suzuki,2014,30183,Petrol,Manual,Mumbai,Grey,First,Individual,1197 cc,FWD,3995,1695,1555,5,42
+584,Mercedes-Benz,2015,45000,Petrol,Automatic,Mumbai,White,Second,Individual,1991 cc,FWD,4417,1804,1494,5,50
+1727,Skoda,2019,30600,Petrol,Automatic,Hyderabad,Red,First,Corporate,1984 cc,FWD,4689,1814,1496,5,50
+1015,Maruti Suzuki,2016,26000,Petrol,Manual,Delhi,White,First,Individual,1197 cc,FWD,3995,1695,1555,5,42
+815,Audi,2012,77000,Diesel,Automatic,Mumbai,Blue,Second,Individual,1968 cc,FWD,4915,1874,1455,5,65
+1217,Maruti Suzuki,2009,185000,Diesel,Manual,Coimbatore,Grey,First,Individual,1248 cc,FWD,3760,1690,1530,5,43
+880,Honda,2019,58618,Petrol,Manual,Pune,Grey,First,Individual,1497 cc,FWD,4440,1695,1495,5,40
+1074,Maruti Suzuki,2019,17881,Petrol,Manual,Ranchi,Grey,First,Individual,1197 cc,FWD,3850,1695,1530,5,42
+814,Hyundai,2011,64000,Petrol,Manual,Lucknow,Grey,First,Individual,1197 cc,FWD,3585,1595,1550,5,35
+287,Hyundai,2009,140000,Diesel,Manual,Yamunanagar,Silver,Third,Individual,1991 cc,FWD,4800,1832,1485,5,70
+911,BMW,2021,18000,Diesel,Automatic,Delhi,White,First,Individual,1995 cc,AWD,4657,1881,1678,5,67
+1914,Mercedes-Benz,2014,80000,Petrol,Automatic,Bangalore,White,Third,Individual,1595 cc,FWD,4292,1780,1433,4,50
+157,Volvo,2015,50000,Diesel,Automatic,Coimbatore,White,Second,Individual,1984 cc,FWD,4370,1783,1458,5,60
+1745,Honda,2006,130000,Petrol,Manual,Deoghar,Maroon,Third,Individual,1799 cc,FWD,4545,1750,1450,5,50
+209,Mahindra,2013,60000,Diesel,Manual,Kolkata,Red,First,Individual,1493 cc,RWD,3985,1850,1880,7,55
+1668,Maruti Suzuki,2014,47884,Petrol,Automatic,Pune,Red,First,Individual,998 cc,FWD,3600,1600,1560,5,35
+1930,Hyundai,2013,66000,Diesel,Manual,Amritsar,Grey,Third,Individual,1582 cc,FWD,4370,1700,1475,5,43
+208,BMW,2020,23000,Diesel,Automatic,Mumbai,White,First,Corporate,1995 cc,RWD,4633,1811,1429,5,57
+609,Maruti Suzuki,2017,63000,Diesel,Manual,Delhi,Grey,First,Individual,1598 cc,FWD,4300,1765,1590,5,48
+1664,Maruti Suzuki,2018,13066,Petrol,Manual,Bangalore,Grey,First,Individual,1373 cc,FWD,4490,1730,1485,5,43
+1965,Ford,2013,64983,Diesel,Manual,Mumbai,Red,First,Individual,1399 cc,FWD,3795,1680,1427,5,45
+851,Toyota,2019,19244,Petrol,Manual,Zirakpur,Red,First,Individual,1197 cc,FWD,3995,1745,1510,5,37
+1918,Honda,2016,63088,Petrol,Manual,Jaipur,White,First,Individual,1497 cc,FWD,4440,1695,1495,5,40
+1519,Honda,2014,48409,Petrol,Manual,Ranchi,White,Second,Individual,1497 cc,FWD,4440,1695,1495,5,40
+563,Toyota,2017,29000,Diesel,Manual,Mysore,Bronze,First,Individual,2393 cc,RWD,4735,1830,1795,7,55
+1286,Audi,2013,44087,Diesel,Automatic,Mumbai,White,First,Individual,1968 cc,AWD,4385,1831,1608,5,64
+1349,Toyota,2014,85000,Diesel,Manual,Bangalore,Silver,Second,Individual,2494 cc,RWD,4585,1760,1760,7,55
+422,Maruti Suzuki,2016,53000,Petrol,Manual,Delhi,Grey,First,Individual,1373 cc,FWD,4296,1695,1685,7,45
+1560,Honda,2009,80000,Petrol,Manual,Mohali,Grey,First,Individual,1497 cc,FWD,4420,1695,1480,5,42
+385,BMW,2018,53000,Diesel,Automatic,Delhi,Blue,Second,Individual,1995 cc,RWD,4454,2044,1545,5,63
+1747,BMW,2018,49000,Diesel,Automatic,Bangalore,Blue,First,Individual,1995 cc,RWD,4454,2044,1545,5,63
+181,Maruti Suzuki,2017,65822,Diesel,Manual,Lucknow,Silver,First,Individual,793 cc,FWD,3600,1600,1560,5,35
